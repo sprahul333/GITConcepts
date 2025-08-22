@@ -1,3 +1,0 @@
-This is the third file that we are preparing for the automation testing
-
-This file shall have lot of details and analysis about the code that you are trying to run

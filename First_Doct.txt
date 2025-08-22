@@ -1,5 +1,0 @@
-First Line of data that we are passing to the GIT
-
-Another line of data to get started with the understanding of the concepts
-
-Third mode of understanding Data lines
