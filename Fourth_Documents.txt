@@ -1,4 +1,0 @@
-
-Creating a new file for better understanding of the data
-
-Understand the real flow of the data
